@@ -1,0 +1,3 @@
+                <h2>Wellcome to PPI</h2>
+                <div>Preah Kossomak Pholytechnic Institute is the leading institute in providing Technical and Bussiness skills in Cambodia. PPI is one of the public vocational Technical institutions under the Ministru of Laber and Vocational Training. Since our institute was established in 1965, now we are highly experienced and have created great achievments in traning Technical and bussiness skills producting the most qualifed human resources for laber market and industries in Cambodia. We also provide traning courses with large classrooms, laboratories, materias, and tools and equitment for.... </div>
+                <p></p>
